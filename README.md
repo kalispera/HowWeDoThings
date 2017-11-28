@@ -19,3 +19,10 @@ This repository is documentation about how we do things in the kalispera organis
 
 We like to keep things transparent. Also we like to point at things so when someone asks us, how we work this is the place we point to. If you have questions about why or even noticed something we
 could do better, please don't [hesitate to let us know](https://github.com/kalispera/how-we-work/issues/new).
+
+
+
+
+## Btw
+
+We're both freelancers working toghether with most of our clients. If you're interessted feel free to write us at kalispera@lassediercks.de
